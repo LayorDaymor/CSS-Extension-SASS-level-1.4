@@ -1,0 +1,36 @@
+%section_first_second_article_setting{
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+%header_footer {
+    text-align: center;
+    height: 6rem;
+    padding: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+%first_to_fourth_aside{
+    margin: .5rem;
+    border: 0.2rem solid rgba(0, 0, 255, 0.678);    
+    padding: 1rem;
+
+}
+
+%navbare_li_a {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    background-color: rgba(128, 128, 128, 0.397);
+
+    li {
+        padding:1rem;
+        list-style: none;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
